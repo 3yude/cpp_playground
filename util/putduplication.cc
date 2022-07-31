@@ -42,7 +42,7 @@ int main() {
     if (out) {
         for (auto line : ouput) {
             out << line << "\n";
-            cout << "1" << endl;
+            //cout << "1" << endl;
         }
         fstrm << flush;
     }
